@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/commodity-center/api/api.iml" filepath="$PROJECT_DIR$/commodity-center/api/api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/orders-centers/api2/api2.iml" filepath="$PROJECT_DIR$/orders-centers/api2/api2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commodity-center/center/center.iml" filepath="$PROJECT_DIR$/commodity-center/center/center.iml" />
+      <module fileurl="file://$PROJECT_DIR$/orders-centers/center2/center2.iml" filepath="$PROJECT_DIR$/orders-centers/center2/center2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commodity-center/commodity-center.iml" filepath="$PROJECT_DIR$/commodity-center/commodity-center.iml" />
+      <module fileurl="file://$PROJECT_DIR$/orders-centers/orders-centers.iml" filepath="$PROJECT_DIR$/orders-centers/orders-centers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/springboot-dubbo-zookeeper2.iml" filepath="$PROJECT_DIR$/.idea/springboot-dubbo-zookeeper2.iml" />
+    </modules>
+  </component>
+</project>
